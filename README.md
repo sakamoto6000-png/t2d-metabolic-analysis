@@ -1,3 +1,5 @@
+Theoretical analytical framework based on integrated public datasets (UK Biobank, dbGaP, DIAGRAM). This repository presents a structural metabolic hypothesis model and is not intended for clinical diagnosis.
+
 # t2d-metabolic-analysis
 "Analytical model for Type 2 Diabetes in the Caucasian population, focusing on the causal relationship between insulin resistance and lipid overload."
 Diabetes Origin Analysis: Caucasian Model
